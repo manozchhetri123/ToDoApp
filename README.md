@@ -18,6 +18,7 @@ Object-oriented design is an approach for solving problems in object-oriented pr
 
 ## Java Programming:
 Android applications are developed using the Java language. As of now, that’s really your only option for native applications. Java is a very popular programming language developed by Sun Microsystems. Developed long after C and C++, Java incorporates many of the powerful features of those powerful languages while addressing some of their drawbacks. Still, programming languages are only as powerful as their libraries. Android relies heavily on these Java fundamentals. The Android SDK includes many standard Java libraries (data structure libraries, math libraries, graphics libraries, networking libraries and everything else you could want) as well as special Android libraries that will help you develop awesome Android applications.
+[java SDK](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
 
 ## Extensible Markup Language
 XML is like a database wich store data for various issue. Mostly we use xml for those data for which security of data, data abstraction etc. are not a common issue.
